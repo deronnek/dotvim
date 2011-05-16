@@ -1,0 +1,3 @@
+[submodule "bundle/rainbow-parenthesis"]
+	path = bundle/rainbow-parenthesis
+	url = https://github.com/vim-scripts/Rainbow-Parenthesis.git
