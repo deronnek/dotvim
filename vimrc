@@ -4,9 +4,10 @@
 " set paste -- this makes macros fail
 call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
-set pastetoggle=<F2>
+set pastetoggle=<F5>
 set nocompatible
 set foldenable    
+
 "hi Folded ctermfg=DarkGreen ctermbg=Black
 hi Folded ctermfg=DarkGreen 
 set foldmethod=marker
