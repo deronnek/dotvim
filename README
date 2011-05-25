@@ -3,7 +3,7 @@ Installation:
 
 # get the config from github 
 cd ~
-git clone http://github.com/seeligd/dotvim.git ~/.vim
+git clone http://github.com/deronnek/dotvim.git ~/.vim
 ln -s ~/.vim/vimrc ~/.vimrc
 ln -s ~/.vim/gvimrc ~/.gvimrc
 
