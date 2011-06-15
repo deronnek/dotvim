@@ -1,4 +1,4 @@
-" Modified by Kevin to fit his tastes.
+" Modified by KDR to fit his tastes.
 let g:colors_name="cdefault"
 hi SpecialKey     term=bold ctermfg=4 guifg=Blue
 hi NonText        term=bold ctermfg=12 gui=bold guifg=Blue
