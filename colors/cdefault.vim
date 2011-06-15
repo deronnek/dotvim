@@ -42,10 +42,10 @@ hi lCursor        guifg=bg guibg=fg
 hi MatchParen     term=reverse ctermbg=14 guibg=Cyan
 "hi Comment        term=bold ctermfg=110 guifg=Blue
 "hi Comment        term=bold ctermfg=191 guifg=#228B22
-hi Comment        term=bold ctermfg=8 guifg=#228B22
+hi Comment        term=bold ctermfg=7 guifg=#228B22
 hi Constant       term=underline ctermfg=1 guifg=Magenta
 hi Special        term=bold ctermfg=5 guifg=SlateBlue
-hi String         ctermfg=165
+hi String         ctermfg=1
 "Variables in perl
 "hi Identifier     term=underline ctermfg=6 guifg=DarkCyan
 hi Identifier     term=underline ctermfg=2 guifg=SeaGreen
@@ -60,7 +60,7 @@ hi Underlined     term=underline cterm=underline ctermfg=5 gui=underline guifg=S
 hi Ignore         ctermfg=15 guifg=bg
 hi Error          term=reverse ctermfg=15 ctermbg=9 guifg=White guibg=Red
 hi Todo           term=standout ctermfg=0 ctermbg=11 guifg=Blue guibg=Yellow
-hi Keyword        ctermfg=164
+hi Keyword        ctermfg=134
 
 "hi Label           links to Statement
 "hi Operator        links to Statement
